@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Eddy Sánchez</h1>
+<h1 align="center">Hola 👋, Soy Eddy Sánchez</h1>
 <h3 align="center">Apasionado por la tecnología y programación. En busca de nuevos horizontes</h3>
 
-- 🌱 I’m currently learning **Kotlin, Microsoft Azure**
+- 🌱 Actualmente me encuetro aprendiedo **Kotlin, Microsoft Azure**
 
-- 👯 I’m looking to collaborate on **who seeks a better future for society**
+- 👯 Me gustaria colaborar con **who seeks a better future for society**
 
-- 📫 How to reach me **eddy2155gamaliel@hotmail.com**
+- 📫 Como contactarme **eddy2155gamaliel@hotmail.com, mobil 9612751708**
 
-- 📄 Know about my experiences [www.linkedin.com/in/eddysanchezr](www.linkedin.com/in/eddysanchezr)
+- 📄 Conoceme [www.linkedin.com/in/eddysanchezr](www.linkedin.com/in/eddysanchezr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
